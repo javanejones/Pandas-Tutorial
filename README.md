@@ -98,7 +98,7 @@ Data aggregation means taking many data points and reducing them to one number, 
 - [`.var()`](https://pandas.pydata.org/pandas-docs/stable/reference/api/pandas.DataFrame.var.html)   #Variance
 - And more!
 
-## Function   Description
+## Function &  Description
 
 - index()     Method returns index (row labels) of the DataFrame
 
