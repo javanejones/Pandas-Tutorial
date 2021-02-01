@@ -1,5 +1,24 @@
 # Pandas-Tutorial
 
+## Python Pandas
+*****
+###this Event
+
+### In this  course, you’ll learn to load and manipulate excel files in python. 
+### You’ll first learn to read an excel file and work simple code to pull specific data you need for your analysis. 
+### Join me for a fun interactive workshop that will get you on your way to using python pandas. 
+
+### What you will learn:
+-	What is python pandas?
+-	What are data frames?
+-	How to manipulate excel files using python.
+-	And much more!
+
+### There are two ways to access the materials for this Lunch & Learn:
+-	If you are comfortable running Jupyter Notebooks on your own computer: Go to https://github.com/javanejones/Pandas-Tutorial. Click on the green "Code" button, and then Download Zip. Open Anaconda Navigator and choose either Jupyter Lab or Jupyter Notebook. Navigate to the folder you downloaded. Open mss.ipynb.
+-	To access the materials online: Go to colab.research.google.com, select GitHub, search for javanejones/Pandas-Tutorial. Select mss.ipynb. Best Option!!
+
+
 ## Welcome to quick tutorial of python pandas
 
 - Pandas is one of the most commonly used Python packages/libraries for data science.<br><br>
