@@ -2,7 +2,6 @@
 
 ## Python Pandas
 *****
-#### this Event
 
 In this  course, you’ll learn to load and manipulate excel files in python. 
 
