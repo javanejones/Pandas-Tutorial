@@ -5,7 +5,9 @@
 #### this Event
 
 In this  course, you’ll learn to load and manipulate excel files in python. 
+
 You’ll first learn to read an excel file and work simple code to pull specific data you need for your analysis. 
+
 Join me for a fun interactive workshop that will get you on your way to using python pandas. 
 
 ### What you will learn:
